@@ -17,8 +17,8 @@ if (document.getElementsByClassName('demo').length > 0) {
 
             ### RESUME SUMMARY
 
-            Self-taught web developer with background in User Experience, Data Analytics, Machine Learning, Algorithms, Search Engine Optimization, Cloud Computing and Hosting, Kubernetes Administration,
-
+            Self-taught web developer and engineer with a profound understanding of computers, networks, algorithms, information security, web and application development, and mobile app development.
+            Currently a personal shopper at Central Market Lover's Lane, but would like to grow into my role in the information technology world.
             -
             -
             -
@@ -38,7 +38,7 @@ if (document.getElementsByClassName('demo').length > 0) {
             -
             -
             -                                                     `;
-  var speed = 15;
+  var speed = 8;
 
   function typeItOut () {
     if (i < txt.length) {
