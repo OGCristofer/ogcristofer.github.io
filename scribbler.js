@@ -24,7 +24,9 @@ if (document.getElementsByClassName('demo').length > 0) {
             Love for Computers | Customer Service | Enjoys working in teams | Always looking for new opportunities | Always staying informed with company and new developments in tech | Product Knowledge (Central Market and FAST) | Fast Learner | Flexible
 
             ### Professional and Academic Experience
-
+            Norma's Cafe (Intermittently 2017-2021)
+            Food Runner, Cashier, Server, Administrative Assistant
+            This was my first job. 
             -
             -
             -
