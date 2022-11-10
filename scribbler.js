@@ -18,10 +18,10 @@ if (document.getElementsByClassName('demo').length > 0) {
             ### RESUME SUMMARY
 
             Self-taught web developer and engineer with a profound understanding of computers, networks, algorithms, information security, web and application development, and mobile app development.
-            Currently a personal shopper at Central Market Lover's Lane, but would like to grow into my role in the information technology world.
-            -
-            -
-            -
+            Currently a personal shopper at Central Market Lover's Lane, but would like to develop and grow into my role in the information technology world with Central Market and H-E-B.
+
+            ### Competencies
+            Love for Computers | Customer Service | Enjoys working in teams | Always looking for new opportunities | Always staying informed with company and new developments in tech | Product Knowledge (Central Market and FAST) | Fast Learner | Flexible
             -
             -
             -
@@ -38,8 +38,8 @@ if (document.getElementsByClassName('demo').length > 0) {
             -
             -
             -                                                     `;
-  var speed = 8;
-
+  var speed = 0;
+//set back to 8 after finished
   function typeItOut () {
     if (i < txt.length) {
       document.getElementsByClassName('demo')[0].innerHTML += txt.charAt(i);
