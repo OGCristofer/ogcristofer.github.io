@@ -22,7 +22,9 @@ if (document.getElementsByClassName('demo').length > 0) {
 
             ### Competencies
             Love for Computers | Customer Service | Enjoys working in teams | Always looking for new opportunities | Always staying informed with company and new developments in tech | Product Knowledge (Central Market and FAST) | Fast Learner | Flexible
-            -
+
+            ### Professional and Academic Experience
+
             -
             -
             -
