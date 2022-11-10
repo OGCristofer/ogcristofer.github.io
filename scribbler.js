@@ -9,7 +9,7 @@ var getAll = function (selector, scope) {
   return scope.querySelectorAll(selector);
 };
 
-// setup typewriter effect in the terminal demo
+// setup typewriter effect in the termina8l demo
 if (document.getElementsByClassName('demo').length > 0) {
   var i = 0;
   var txt = `sh ~/documents/resume.sh
@@ -24,11 +24,13 @@ if (document.getElementsByClassName('demo').length > 0) {
             Love for Computers | Customer Service | Enjoys working in teams | Always looking for new opportunities | Always staying informed with company and new developments in tech | Product Knowledge (Central Market and FAST) | Fast Learner | Flexible
 
             ### Professional and Academic Experience
-            Norma's Cafe (Intermittently 2017-2021)
+            -Norma's Cafe (Intermittently 2017-2021)
             Food Runner, Cashier, Server, Administrative Assistant
-            This was my first job. 
-            -
-            -
+            This was my first job. I learned many important skills during my time here, most notably customer service, patience, time-management, sense of urgency, teamwork, conflict resolution, multitasking, and understanding customer feedback.
+            It was important for me to understand how to communicate issues to my team and help expedite the flow of our service to improve the experience for everyone. I had several responsibilites and I upheld them very well.
+
+
+
             -
             -
             -
