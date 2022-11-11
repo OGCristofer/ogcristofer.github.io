@@ -14,8 +14,9 @@ if (document.getElementsByClassName('demo').length > 0) {
   var i = 0;
   var txt = `sh ~/documents/resume.sh
 
-            [Name]: Cristofer Posas
+            [name]: Cristofer Posas
             [e-mail]: ogcristofer@gmail.com
+            [phone number]: (469) 507-1450
 
 
             ############################### RESUME SUMMARY################################
@@ -26,6 +27,18 @@ if (document.getElementsByClassName('demo').length > 0) {
             ### Competencies
             Love for Computers | Always open to creative criticism |  Customer Service | Enjoys working in teams | Always looking for new opportunities | Always staying informed with company and new developments in tech | Product Knowledge (Central Market and FAST) | Fast Learner | Flexible
 
+            ### Education
+              W.H. Adamson Collegiate Academy and P-Tech
+              (2017-2021)
+
+              El Centro College (AAS in Computer Science)
+              (2017-2021)
+
+              IBM Apprenticeship through School Partnership
+              (2017-2021)
+
+              American Airlines Developer Operations Internship through School Partnership
+              (2017-2021)
             ### Professional Experience
 
             -Norma's Cafe (Intermittently 2017-2021)
@@ -33,11 +46,11 @@ if (document.getElementsByClassName('demo').length > 0) {
             This was my first job. I learned many important skills during my time here, most notably customer service, patience, time-management, sense of urgency, teamwork, conflict resolution, multitasking, and understanding customer feedback.
             It was important for me to understand how to communicate issues to my team and help expedite the flow of our service to improve the experience for everyone. I had several responsibilites and I upheld them very well.
 
-            -Chick-Fil-A (2017)
+            -Chick-Fil-A (2020-2021)
              Front of House Team Member and Team Lead (Cashier, Exposition, Host, Facilitator)
             My job here was to facilitate all of our front-end operations and give good customer service to promote customer-brand loyalty and provide great service.
 
-            -Amazon.com (2019-2021)
+            -Amazon.com (2021-2022)
              (Area Manager, Information Technology and RME [Reliability and Maintenance Engineer], Amnesty)
             During my time here I was able to learn and appreciate the beauty of understanding operations and the standards that they have to be held to in order to make a business function well.
             As an Area Manager I had to manage a group of 20+ employees and make sure that they were compliant in all their training, coach them to reach our productivity standards, and find flaws in our operations that could be resolved with my intervention.
@@ -54,16 +67,62 @@ if (document.getElementsByClassName('demo').length > 0) {
             -Java
             -CSS
             -SQL
-            -
+            -Python
+            -Git
+            -Swift
+            -electron
+
+
+            ###Platforms
+            Docker
+            MongoDB
+            Github
+            Kubernetes
+            Windows
+            Windows Server
+            Linux (Ubuntu Server, Debian, Fedora, CENTOS, Kali Linux, elementaryOS)
+            macOS
+            Swift
+            gParted
+            WordPress
+            VMWare Horizon
+            VMWare
+            Wireshark
+            Apache
+            Microsoft Azure
+            Amazon AWS
+            Google Cloud
+            cloudflare
+            Firebase
+
             ###Skills
+              Active Listener
+              Fast Learner
+              Customer Service
+              Receptive of feedback
+              Conflict management and resolution
+              Microsoft Office certified
+              A+ Software and Hardware certified
+              Strong in analytics and statistics
+              Sales
+              Industry research
+              Understanding of what industry we are in
+              Cloud Computing and Hosting
+
 
             ###Community
-            (mention representation groups (Latinos at amazon and Pride))
-            HEB PRG's
-                                     `;
+              Latinos at Amazon
+              Glamazon
+              Pride PRG @ HEB
+              Hispanic PRG Group
+              Thanksgiving Meals for those in Need @ Norma's Cafe (2017-2021)
+              Kiestwood Assemblies of God
+
+
+                                                                              `;
   var speed = 0;
-//set back to 8 after finished
-  function typeItOut () { M
+  //gonna leave this one at 0 lol
+  function typeItOut () {
     if (i < txt.length) {
       document.getElementsByClassName('demo')[0].innerHTML += txt.charAt(i);
       i++;
