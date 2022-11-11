@@ -29,12 +29,12 @@ if (document.getElementsByClassName('demo').length > 0) {
             ### Professional Experience
 
             -Norma's Cafe (Intermittently 2017-2021)
-             Food Runner, Cashier, Server, Administrative Assistant
+             Food Runner, Cashier, Server, Administrative Assistant, Facilitator
             This was my first job. I learned many important skills during my time here, most notably customer service, patience, time-management, sense of urgency, teamwork, conflict resolution, multitasking, and understanding customer feedback.
             It was important for me to understand how to communicate issues to my team and help expedite the flow of our service to improve the experience for everyone. I had several responsibilites and I upheld them very well.
 
             -Chick-Fil-A (2017)
-             Cashier, Steward of Good Food
+            Front of House Team Member and Team Lead (Cashier, Exposition, Host, Facilitator)
 
 
             -Amazon (amnesty,robopick, sort, pick, stow
