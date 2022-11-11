@@ -44,11 +44,22 @@ if (document.getElementsByClassName('demo').length > 0) {
             My role in IT was initially to give maintenance and repair to our KivA robotics systems and our internal network that worked outside of AWS. I got to learn and truly understand the networking of a business deployment of an internal IDP/Cisco based network. We would also be in charge of re-flashing and enrolling our workstations into our domain.
             After becoming ComptIA certified in Hardware Maintenance and Software and receiveing my MIcrosoft Specialist certificate I was moved into our RME team where we would review our operations and reliability and collect feedback from our employees to make the changes necessary to improve our day-to-day productivity.
 
+            Central Market by H-E-B (2022 - present)
+             (Curbside Personal Shopper)
+            My responsibilites here are to receive and process customer orders placed through our website, help prepare the orders for pick-up and delivery, and help expedite the operations in our curbside department by assuming the roles necessary to reach our productivity levels.
+            Most of my job is performed using the FAST application and I am able to become more productive by listening to my leaders and managers and our team helps each other out.
+
+            ###Programming Languages
+            -HTML
+            -Java
+            -CSS
+            -SQL
+            -
+            ###Skills
+
+            ###Community
             (mention representation groups (Latinos at amazon and Pride))
-
-
-
-            -Amazon (amnesty,robopick, sort, pick, stow
+            HEB PRG's
                                      `;
   var speed = 0;
 //set back to 8 after finished
