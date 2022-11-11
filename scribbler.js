@@ -34,14 +34,22 @@ if (document.getElementsByClassName('demo').length > 0) {
             It was important for me to understand how to communicate issues to my team and help expedite the flow of our service to improve the experience for everyone. I had several responsibilites and I upheld them very well.
 
             -Chick-Fil-A (2017)
-            Front of House Team Member and Team Lead (Cashier, Exposition, Host, Facilitator)
+             Front of House Team Member and Team Lead (Cashier, Exposition, Host, Facilitator)
+            My job here was to facilitate all of our front-end operations and give good customer service to promote customer-brand loyalty and provide great service.
+
+            -Amazon.com (2019-2021)
+             (Area Manager, Information Technology and RME [Reliability and Maintenance Engineer], Amnesty)
+            During my time here I was able to learn and appreciate the beauty of understanding operations and the standards that they have to be held to in order to make a business function well.
+            As an Area Manager I had to manage a group of 20+ employees and make sure that they were compliant in all their training, coach them to reach our productivity standards, and find flaws in our operations that could be resolved with my intervention.
+            (mention representation groups (Latinos at amazon and Pride))
+
 
 
             -Amazon (amnesty,robopick, sort, pick, stow
                                      `;
   var speed = 0;
 //set back to 8 after finished
-  function typeItOut () {
+  function typeItOut () { M
     if (i < txt.length) {
       document.getElementsByClassName('demo')[0].innerHTML += txt.charAt(i);
       i++;
