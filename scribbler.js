@@ -41,6 +41,9 @@ if (document.getElementsByClassName('demo').length > 0) {
              (Area Manager, Information Technology and RME [Reliability and Maintenance Engineer], Amnesty)
             During my time here I was able to learn and appreciate the beauty of understanding operations and the standards that they have to be held to in order to make a business function well.
             As an Area Manager I had to manage a group of 20+ employees and make sure that they were compliant in all their training, coach them to reach our productivity standards, and find flaws in our operations that could be resolved with my intervention.
+            My role in IT was initially to give maintenance and repair to our KivA robotics systems and our internal network that worked outside of AWS. I got to learn and truly understand the networking of a business deployment of an internal IDP/Cisco based network. We would also be in charge of re-flashing and enrolling our workstations into our domain.
+            After becoming ComptIA certified in Hardware Maintenance and Software and receiveing my MIcrosoft Specialist certificate I was moved into our RME team where we would review our operations and reliability and collect feedback from our employees to make the changes necessary to improve our day-to-day productivity.
+
             (mention representation groups (Latinos at amazon and Pride))
 
 
