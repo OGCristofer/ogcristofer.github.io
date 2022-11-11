@@ -13,37 +13,32 @@ var getAll = function (selector, scope) {
 if (document.getElementsByClassName('demo').length > 0) {
   var i = 0;
   var txt = `sh ~/documents/resume.sh
-            []
 
-            ### RESUME SUMMARY
+            [Name]: Cristofer Posas
+            [e-mail]: ogcristofer@gmail.com
+
+
+            ############################### RESUME SUMMARY################################
 
             Self-taught web developer and engineer with a profound understanding of computers, networks, algorithms, information security, web and application development, and mobile app development.
             Currently a personal shopper at Central Market Lover's Lane, but would like to develop and grow into my role in the information technology world with Central Market and H-E-B.
 
             ### Competencies
-            Love for Computers | Customer Service | Enjoys working in teams | Always looking for new opportunities | Always staying informed with company and new developments in tech | Product Knowledge (Central Market and FAST) | Fast Learner | Flexible
+            Love for Computers | Always open to creative criticism |  Customer Service | Enjoys working in teams | Always looking for new opportunities | Always staying informed with company and new developments in tech | Product Knowledge (Central Market and FAST) | Fast Learner | Flexible
 
-            ### Professional and Academic Experience
+            ### Professional Experience
+
             -Norma's Cafe (Intermittently 2017-2021)
-            Food Runner, Cashier, Server, Administrative Assistant
+             Food Runner, Cashier, Server, Administrative Assistant
             This was my first job. I learned many important skills during my time here, most notably customer service, patience, time-management, sense of urgency, teamwork, conflict resolution, multitasking, and understanding customer feedback.
             It was important for me to understand how to communicate issues to my team and help expedite the flow of our service to improve the experience for everyone. I had several responsibilites and I upheld them very well.
 
+            -Chick-Fil-A (2017)
+             Cashier, Steward of Good Food
 
 
-            -
-            -
-            -
-            -
-            -
-            -
-            -
-            -
-            -
-            -
-            -
-            -
-            -                                                     `;
+            -Amazon (amnesty,robopick, sort, pick, stow
+                                     `;
   var speed = 0;
 //set back to 8 after finished
   function typeItOut () {
