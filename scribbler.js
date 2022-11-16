@@ -21,7 +21,7 @@ if (document.getElementsByClassName('demo').length > 0) {
 
             ############################### RESUME SUMMARY################################
 
-            Self-taught web developer and engineer with a profound understanding of computers, networks, algorithms, information security, web and application development, and mobile app development.
+            Self-taught web developer and engineer with a profound understanding of computers, networks, algorithms, data structures, information security, web and application development, and mobile app development.
             Currently a personal shopper at Central Market Lover's Lane, but would like to develop and grow into my role in the information technology world with Central Market and H-E-B.
 
             ### Competencies
@@ -86,6 +86,9 @@ if (document.getElementsByClassName('demo').length > 0) {
             gParted
             WordPress
             VMWare Horizon
+            Swagger
+            Rest API
+            OpenAPI
             VMWare
             Wireshark
             Apache
@@ -94,6 +97,7 @@ if (document.getElementsByClassName('demo').length > 0) {
             Google Cloud
             cloudflare
             Firebase
+
 
             ###Skills
               Active Listener
@@ -108,6 +112,7 @@ if (document.getElementsByClassName('demo').length > 0) {
               Industry research
               Understanding of what industry we are in
               Cloud Computing and Hosting
+
 
 
             ###Community
